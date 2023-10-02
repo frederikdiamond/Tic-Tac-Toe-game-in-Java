@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e29c65f-955b-4fbb-829d-84e95d9257e7" name="Changes" comment="Methods has been declared">
+    <list default="true" id="6e29c65f-955b-4fbb-829d-84e95d9257e7" name="Changes" comment="General styling of UI added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
@@ -82,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696241178623</updated>
-      <workItem from="1696241179624" duration="2387000" />
+      <workItem from="1696241179624" duration="3726000" />
     </task>
     <task id="LOCAL-00001" summary="Getting started">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696242251719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="General styling of UI added">
+      <option name="closed" value="true" />
+      <created>1696245980009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696245980009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Getting started" />
     <MESSAGE value="Methods has been declared" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods has been declared" />
+    <MESSAGE value="General styling of UI added" />
+    <option name="LAST_COMMIT_MESSAGE" value="General styling of UI added" />
   </component>
 </project>
